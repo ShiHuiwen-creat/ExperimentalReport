@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
 <config>
-    <className>HTTPConnection</className>
+    <className>POP3Connection</className>
 </config>
