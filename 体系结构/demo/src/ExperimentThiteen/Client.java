@@ -15,7 +15,7 @@ public class Client {
 
         statisticalAnalysis.setAnImport(anImport);
         statisticalAnalysis1.setAnImport(anImport1);
-
+//        StatisticalAnalysis.display();
         statisticalAnalysis.display();
         statisticalAnalysis1.display();
     }

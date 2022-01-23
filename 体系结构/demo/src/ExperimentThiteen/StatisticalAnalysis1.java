@@ -8,7 +8,7 @@ import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
  */
 public class StatisticalAnalysis1 extends StatisticalAnalysis{
     @Override
-    public void display() {
+    public  void display() {
         System.out.println("以分析整套试卷的成绩分布");
         anImport.display();
     }
